@@ -62,6 +62,12 @@
 ### For more Work, visit our [website](https://socialpanga.com/project/).
 ---
 
+---
+
+### :fire: Our Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=socialpanga&theme=dark&hide_border=true&mode=weekly&card_width=700&card_height=200)
+
 ### 😉 Programming Joke :
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
