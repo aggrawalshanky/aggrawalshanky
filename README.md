@@ -67,9 +67,6 @@
 [![portfolio](https://img.shields.io/badge/our_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://socialpanga.com/project/)
 ---
 
-### :fire: Our Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=socialpanga&theme=dark&hide_border=true&mode=weekly&card_width=700&card_height=200)](https://git.io/streak-stats)
-
 ### 😉 Programming Joke:
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
