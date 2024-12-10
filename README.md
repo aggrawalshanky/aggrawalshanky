@@ -36,6 +36,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" **alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="Github Actions" **alt="Github Actions" width="40" height="40"/>&nbsp;
 </p>
 
 ---
@@ -57,11 +60,14 @@
 
 - [Milex Global Website Design and Development](https://milexglobal.com/)
 
-- [KitKat #YouMakeMyBreak Case Study Film](https://socialpanga.com/project/kitkat-valentine-day/)
+- [Triveni Turbines Website Design and Development](https://www.triveniturbines.com/)
 
-- [Manipal Hospitals | Re-Birthday Campaign Case Study](https://socialpanga.com/project/manipal-hospitals-happy-rebirthday/)
+- [Jindal Stainless Website Design and Development](https://www.jindalstainless.com/)
 
-- [Maggie | Enhancing Brand Values of a brand that is loved across.](https://socialpanga.com/project/maggi/)
+- [Paytm Travel Christmas Campaign Landing Page](https://paytmtravel.in/)
+
+- [Himalaya Ashvgandha Landing Page](https://ashvagandha.in/)
+
   <!-- WORK-LIST:END -->
  
 [![portfolio](https://img.shields.io/badge/our_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://socialpanga.com/project/)
