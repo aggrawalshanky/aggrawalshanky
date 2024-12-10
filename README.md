@@ -11,18 +11,16 @@
 </p>--> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ShekharTarare&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<h1 align="center">Hey there, We are Marketing Mafias  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### 👨‍💻 &nbsp;About SocialPanga :
 
- Welcome to SocialPanga GitHub profile! We are Marketing Mafias <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+ Welcome to SocialPanga GitHub profile!  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 💻 We are an award-winning creative marketing and advertising agency. We ideate, curate and execute marketing strategies to engage with our clients’ intended audience, all while integrating their brand with the digital world.
 - ✍️ We take thoughts for ideas and create remarkable moments. We are always well prepared – with a bunch of crazy people, endless cups of chai and beautiful hideouts in Bengaluru, Delhi and Mumbai.
 - ⚡ At Social Panga, we are driven by a strong innate desire to delight the customer to an extent that they want to give us virtual hugs.
-- 📫 How to reach us: &nbsp; [![Website Badge](https://img.shields.io/website?url=https://www.socialpanga.com/)
+- 📫 How to reach us: &nbsp; [![Website Badge](https://img.shields.io/website?url=https://www.socialpanga.com/)]
 
 ---
 
