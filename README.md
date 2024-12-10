@@ -12,7 +12,7 @@
 
 <h1 align="center">Hey there, We are Marketing Mafias  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-### 👨‍💻 &nbsp;About SocialPanga :
+### 👨‍💻 &nbsp;About SocialPanga:
 
  Welcome to SocialPanga GitHub profile!  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>&nbsp;
@@ -51,7 +51,7 @@
 ---
 
 
-### 👨‍💻 Latest Work :
+### 👨‍💻 Latest Work:
 <p>The Mafias love to talk about their conquests over a freshly brewed pitcher of beer. Client satisfaction is significant to them, as they strive for nothing short of creative excellence. Here are a few smart goals that were set and smashed successfully.</p>
 <!-- Work-LIST:START -->
 - [Milex Global Website Revamped](https://milexglobal.com/)
@@ -62,12 +62,9 @@
 ### For more Work, visit our [website](https://socialpanga.com/project/).
 ---
 
----
-
-### :fire: Our Stats :
-
+### :fire: Our Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=socialpanga&theme=dark&hide_border=true&mode=weekly&card_width=700&card_height=200)](https://git.io/streak-stats)
 
-### 😉 Programming Joke :
+### 😉 Programming Joke:
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
