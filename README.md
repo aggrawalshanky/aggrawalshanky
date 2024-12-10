@@ -19,7 +19,8 @@
 - 💻 We are an award-winning creative marketing and advertising agency. We ideate, curate and execute marketing strategies to engage with our clients’ intended audience, all while integrating their brand with the digital world.
 - ✍️ We take thoughts for ideas and create remarkable moments. We are always well prepared - with a bunch of crazy people, endless cups of chai and beautiful hideouts in Bengaluru, Delhi and Mumbai.
 - ⚡ At Social Panga, we are driven by a strong innate desire to delight the customer to an extent that they want to give us virtual hugs.
-- 📫 How to reach us: &nbsp; [![Website Badge](https://img.shields.io/website?url=https://www.socialpanga.com/)]
+- 📫 How to reach us: &nbsp; [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://socialpanga.com/project/)
+
 
 ---
 
@@ -59,7 +60,8 @@
 - [Manipal Hospitals | Re-Birthday Campaign Case Study](https://socialpanga.com/project/manipal-hospitals-happy-rebirthday/)
 - [Maggie | Enhancing Brand Values of a brand that is loved across.](https://socialpanga.com/project/maggi/)
   <!-- WORK-LIST:END -->
-### For more Work, visit our [website](https://socialpanga.com/project/).
+
+[![portfolio](https://img.shields.io/badge/our_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://socialpanga.com/project/)
 ---
 
 ### :fire: Our Stats:
