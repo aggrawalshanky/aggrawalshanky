@@ -55,10 +55,10 @@
 ### 👨‍💻 Latest Work:
 <p>The Mafias love to talk about their conquests over a freshly brewed pitcher of beer. Client satisfaction is significant to them, as they strive for nothing short of creative excellence. Here are a few smart goals that were set and smashed successfully.</p>
 <!-- Work-LIST:START -->
-- [Milex Global Website Design and Development](https://milexglobal.com/)
-- [KitKat #YouMakeMyBreak Case Study Film](https://socialpanga.com/project/kitkat-valentine-day/)
-- [Manipal Hospitals | Re-Birthday Campaign Case Study](https://socialpanga.com/project/manipal-hospitals-happy-rebirthday/)
-- [Maggie | Enhancing Brand Values of a brand that is loved across.](https://socialpanga.com/project/maggi/)
+- [![Milex Global Website Design and Development](https://milexglobal.com/)
+- [![KitKat #YouMakeMyBreak Case Study Film](https://socialpanga.com/project/kitkat-valentine-day/)
+- [![Manipal Hospitals | Re-Birthday Campaign Case Study](https://socialpanga.com/project/manipal-hospitals-happy-rebirthday/)
+- [![Maggie | Enhancing Brand Values of a brand that is loved across.](https://socialpanga.com/project/maggi/)
   <!-- WORK-LIST:END -->
 
 [![portfolio](https://img.shields.io/badge/our_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://socialpanga.com/project/)
