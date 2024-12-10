@@ -1,5 +1,5 @@
 [![Latest blog post workflow](https://github.com/ShekharTarare/ShekharTarare/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/ShekharTarare/ShekharTarare/actions/workflows/blog-post-workflow.yml)
-<p align="center"><img src="https://socialpanga.com/wp-content/uploads/2021/08/about-banner-spacing-1.png" width="100&"/></p>
+<p align="center"><img src="https://socialpanga.com/wp-content/uploads/2021/08/about-banner-spacing-1.png" width="100%"/></p>
 <p align="center"> 
 <a href="https://www.linkedin.com/company/socialpanga/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://twitter.com/socialpanga"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/></a>
@@ -74,18 +74,3 @@
 ### 😉 Programming Joke :
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
-- 👋 Hi, I’m @aggrawalshanky
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-aggrawalshanky/aggrawalshanky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
