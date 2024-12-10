@@ -55,6 +55,7 @@
 ### 👨‍💻 Latest Work:
 <p>The Mafias love to talk about their conquests over a freshly brewed pitcher of beer. Client satisfaction is significant to them, as they strive for nothing short of creative excellence. Here are a few smart goals that were set and smashed successfully.</p>
 <!-- Work-LIST:START -->
+
 - [Milex Global Website Design and Development](https://milexglobal.com/)
 
 - [KitKat #YouMakeMyBreak Case Study Film](https://socialpanga.com/project/kitkat-valentine-day/)
