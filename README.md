@@ -1,4 +1,3 @@
-[![Latest blog post workflow](https://github.com/ShekharTarare/ShekharTarare/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/ShekharTarare/ShekharTarare/actions/workflows/blog-post-workflow.yml)
 <p align="center"><img src="https://socialpanga.com/wp-content/uploads/2021/08/about-banner-spacing-1.png" width="100%"/></p>
 <p align="center"> 
 <a href="https://www.linkedin.com/company/socialpanga/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -51,16 +50,10 @@
 - Analytics and Insights: Data-driven decisions for better outcomes.
 ---
 
-### 🔥 &nbsp; Our Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=socialpanga&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=socialpanga&layout=compact&theme=vision-friendly-dark)](https://github.com/socialpanga/github-readme-stats)
-
----
 
 ### 👨‍💻 Latest Work :
-
-<!-- Work-LIST:START -->- 
+<p>The Mafias love to talk about their conquests over a freshly brewed pitcher of beer. Client satisfaction is significant to them, as they strive for nothing short of creative excellence. Here are a few smart goals that were set and smashed successfully.</p>
+<!-- Work-LIST:START -->
 - [Milex Global Website Revamped](https://milexglobal.com/)
 - [KitKat #YouMakeMyBreak Case Study Film](https://socialpanga.com/project/kitkat-valentine-day/)
 - [Manipal Hospitals | Re-Birthday Campaign Case Study](https://socialpanga.com/project/manipal-hospitals-happy-rebirthday/)
