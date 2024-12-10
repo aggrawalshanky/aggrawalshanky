@@ -66,7 +66,7 @@
 
 ### :fire: Our Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=socialpanga&theme=dark&hide_border=true&mode=weekly&card_width=700&card_height=200)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=socialpanga&theme=dark&hide_border=true&mode=weekly&card_width=700&card_height=200)](https://git.io/streak-stats)
 
 ### 😉 Programming Joke :
 <!-- Markdown -->
