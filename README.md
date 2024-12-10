@@ -43,11 +43,11 @@
 ### 🔥 &nbsp; Our Services:
 <p>We understand that every brand comes with its own unique challenges, and hence requires expertise. We join hands with you as your growth partners and focus on delivering a power-packed panga each time!</p>
 
-- Creative Digital Campaigns: Unique ideas that connect with audiences.
-- Web and App Development: Scalable, high-performance solutions tailored for growth.
-- SEO and Paid Media: Driving meaningful engagement and conversions.
-- Automation and Optimization: Streamlining workflows and enhancing efficiency.
-- Analytics and Insights: Data-driven decisions for better outcomes.
+- **Creative Digital Campaigns:** Unique ideas that connect with audiences.
+- **Web and App Development:** Scalable, high-performance solutions tailored for growth.
+- **SEO and Paid Media:** Driving meaningful engagement and conversions.
+- **Automation and Optimization:** Streamlining workflows and enhancing efficiency.
+- **Analytics and Insights:** Data-driven decisions for better outcomes.
 ---
 
 
