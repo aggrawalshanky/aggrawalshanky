@@ -5,10 +5,10 @@
 <a href="https://www.instagram.com/socialpanga/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 <a href="https://www.facebook.com/socialpanga"><img src="https://img.shields.io/badge/Facebook-Connect-black?style=for-the-badge&labelColor=yellow&logo=facebook" alt="Instagram Badge"/></a>
 </p>
-<!--<p align="center">
-<a href="https://www.buymeacoffee.com/shekhartarS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>--> 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ShekharTarare&style=flat-square&color=blue" alt=""></p>
+<p align="center">
+<a href="https://socialpanga.com/contact-us/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=socialpanga&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hey there, We are Marketing Mafias  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -20,7 +20,6 @@
 - ✍️ We take thoughts for ideas and create remarkable moments. We are always well prepared - with a bunch of crazy people, endless cups of chai and beautiful hideouts in Bengaluru, Delhi and Mumbai.
 - ⚡ At Social Panga, we are driven by a strong innate desire to delight the customer to an extent that they want to give us virtual hugs.
 - 📫 How to reach us: &nbsp; [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://socialpanga.com/project/)
-
 
 ---
 
@@ -35,7 +34,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
@@ -55,15 +54,10 @@
 ### 👨‍💻 Latest Work:
 <p>The Mafias love to talk about their conquests over a freshly brewed pitcher of beer. Client satisfaction is significant to them, as they strive for nothing short of creative excellence. Here are a few smart goals that were set and smashed successfully.</p>
 <!-- Work-LIST:START -->
-
 - [Milex Global Website Design and Development](https://milexglobal.com/)
-
 - [KitKat #YouMakeMyBreak Case Study Film](https://socialpanga.com/project/kitkat-valentine-day/)
-  
 - [Manipal Hospitals | Re-Birthday Campaign Case Study](https://socialpanga.com/project/manipal-hospitals-happy-rebirthday/)
-  
 - [Maggie | Enhancing Brand Values of a brand that is loved across.](https://socialpanga.com/project/maggi/)
-  
   <!-- WORK-LIST:END -->
  
 [![portfolio](https://img.shields.io/badge/our_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://socialpanga.com/project/)
