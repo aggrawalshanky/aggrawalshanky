@@ -71,8 +71,9 @@
   <!-- WORK-LIST:END -->
  
 [![portfolio](https://img.shields.io/badge/our_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://socialpanga.com/project/)
+<!-- Markdown -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aggrawalshanky)](https://git.io/streak-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aggrawalshanky&repo=aggrawalshanky)](https://github.com/aggrawalshanky/aggrawalshanky)
 
 ---
 
