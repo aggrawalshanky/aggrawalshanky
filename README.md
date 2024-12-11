@@ -73,7 +73,7 @@
 [![portfolio](https://img.shields.io/badge/our_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://socialpanga.com/project/)
 <!-- Markdown -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aggrawalshanky)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/socialpanga?cardType=level&theme=github-dark&preferLogin=false)]
 
 ---
 
