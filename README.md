@@ -73,7 +73,7 @@
 [![portfolio](https://img.shields.io/badge/our_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://socialpanga.com/project/)
 <!-- Markdown -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=socialpanga&repo=socialpanga-test)](https://github.com/socialpanga/)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=socialpanga)
 
 ---
 
