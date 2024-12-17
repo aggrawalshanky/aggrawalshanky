@@ -3,8 +3,7 @@
 <a href="https://www.linkedin.com/company/socialpanga/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://twitter.com/socialpanga"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/></a>
 <a href="https://www.instagram.com/socialpanga/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
-<a href="https://www.facebook.com/socialpanga"><img src="https://img.shields.io/badge/Facebook-Connect-black?style=for-the-badge&labelColor=yellow&logo=facebook" alt="Instagram Badge"/></a>
-</p>
+<a href="https://facebook.com/socialpanga/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook Badge"/></a></p>
 <p align="center">
 <a href="https://socialpanga.com/contact-us/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
