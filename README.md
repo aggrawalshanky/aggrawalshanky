@@ -3,9 +3,10 @@
 <a href="https://www.linkedin.com/company/socialpanga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://x.com/socialpanga" target="_blank"><img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/></a>
 <a href="https://www.instagram.com/socialpanga/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
-<a href="https://facebook.com/socialpanga/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook Badge"/></a></p>
- <a href="https://socialpanga.com/contact-us/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Contact us"/></a>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=socialpanga&style=flat-square&color=blue" alt=""></p>
+<a href="https://facebook.com/socialpanga/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook Badge"/></a>
+<a href="https://socialpanga.com/contact-us/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Contact us"/></a>
+</p>
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=socialpanga&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hey there, We are Marketing Mafias skilled enough to know better, wild enough to think bigger!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
