@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/socialpanga/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 <a href="https://facebook.com/socialpanga/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook Badge"/></a></p>
 <p align="center">
-[![Contactus](https://img.shields.io/badge/linktree-%231ca0f1.svg?style=for-the-badge&logo=contactus&logoColor=white)](https://socialpanga.com/contact-us/)
+[![Contactus](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://socialpanga.com/contact-us/)
 
 <a href="https://socialpanga.com/contact-us/" style="background:#f8d200;color:#000000;" target="_blank">Contact Us</a>
 </p>
