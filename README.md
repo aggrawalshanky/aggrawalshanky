@@ -1,6 +1,6 @@
 <p align="center"><img src="https://socialpanga.com/wp-content/uploads/2021/08/about-banner-spacing-1.png" width="100%"/></p>
 <p align="center"> 
-<a href="https://www.linkedin.com/company/socialpanga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/company/socialpanga/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://x.com/socialpanga" target="_blank"><img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/></a>
 <a href="https://www.instagram.com/socialpanga/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 <a href="https://facebook.com/socialpanga/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook Badge"/></a>
