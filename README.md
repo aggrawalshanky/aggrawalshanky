@@ -6,10 +6,6 @@
 <a href="https://facebook.com/socialpanga/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook Badge"/></a></p>
 <p align="center">
  <a href="https://facebook.com/socialpanga/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Contact us"/></a>
-
-
-
-<a href="https://socialpanga.com/contact-us/" style="background:#f8d200;color:#000000;" target="_blank">Contact Us</a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=socialpanga&style=flat-square&color=blue" alt=""></p>
 
